@@ -1,9 +1,10 @@
 ## Guy Francoeur
 
-### Bienvenue sur mon profile
+### Bienvenue sur mon profile github
 
-<img src="https://komarev.com/ghpvc/?username=guyfrancoeur&label=Profile%20views&color=0e75b6&style=flat" alt="guyfrancoeur" />
-<img src="https://github-profile-trophy.vercel.app/?username=guyfrancoeur&title=Commit,Followers" alt="guyfrancoeur" />
+####  Étudiants UQAM
+
+ - [Cliquer ici](https://guyfrancoeur.github.io)
 
 ### Cloud
 
@@ -62,12 +63,12 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
     
-### _
+### Contribution github
 
+<img src="https://komarev.com/ghpvc/?username=guyfrancoeur&label=Profile%20views&color=0e75b6&style=flat" alt="guyfrancoeur" />
+<img src="https://github-profile-trophy.vercel.app/?username=guyfrancoeur&title=Commit,Followers" alt="guyfrancoeur" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyfrancoeur&show_icons=true&locale=en&layout=compact" alt="guyfrancoeur" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyfrancoeur&show_icons=true&locale=en" alt="guyfrancoeur" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyfrancoeur&" alt="guyfrancoeur" />
 
 
