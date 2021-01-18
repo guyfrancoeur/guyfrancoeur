@@ -66,11 +66,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyfrancoeur&show_icons=true&locale=en&layout=compact" alt="guyfrancoeur" />
 
-### _
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyfrancoeur&show_icons=true&locale=en" alt="guyfrancoeur" />
-
-### _
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guyfrancoeur&" alt="guyfrancoeur" />
 
