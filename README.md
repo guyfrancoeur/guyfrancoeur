@@ -1,8 +1,10 @@
-## Guy Francoeur
+# Guy Francoeur
 
-### Bienvenue sur mon profile github
+## Bienvenue sur mon profile github
 
-####  Étudiants UQAM
+<img src="https://komarev.com/ghpvc/?username=guyfrancoeur&label=Profile%20views&color=0e75b6&style=flat" alt="guyfrancoeur" />
+
+###  Étudiants UQAM
 
  - [Cliquer ici](https://guyfrancoeur.github.io)
 
@@ -65,7 +67,6 @@
     
 ### Contribution github
 
-<img src="https://komarev.com/ghpvc/?username=guyfrancoeur&label=Profile%20views&color=0e75b6&style=flat" alt="guyfrancoeur" />
 <img src="https://github-profile-trophy.vercel.app/?username=guyfrancoeur&title=Commit,Followers" alt="guyfrancoeur" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guyfrancoeur&show_icons=true&locale=en&layout=compact" alt="guyfrancoeur" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guyfrancoeur&show_icons=true&locale=en" alt="guyfrancoeur" />
