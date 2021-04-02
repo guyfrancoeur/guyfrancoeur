@@ -44,22 +44,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/></a>
 
 ### Librairie
 
- <a href="#"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" height="40"/></a>
- <a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="" height="40"/> </a>
- <a href="#"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="" height="40"/> </a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="40"/></a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" height="40"/> </a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40"/> </a>
 
 ### Outils
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="" height="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio Code" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
   <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-  <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="40"/> </a>
+  <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft PI" height="40"/></a>
 
 ### Hardware
   
