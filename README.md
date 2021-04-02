@@ -89,8 +89,9 @@
   
 ### OS
 
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" height="40"/></a>
     
 ### Contribution github
 
