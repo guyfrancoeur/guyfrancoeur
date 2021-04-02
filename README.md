@@ -44,16 +44,16 @@
 
 ### Librairie
 
-<a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="40"/></a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" height="40"/> </a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40"/> </a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" height="40"/> </a>
  <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" height="40"/> </a>
 
 ### Outils
+
   <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio Code" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank">
