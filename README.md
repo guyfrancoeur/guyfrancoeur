@@ -24,6 +24,24 @@
   <a href="#"><img src="./logo/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Cognitive Sevices" height="48"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupiter notebook" height="48"/></a>
 
+### Base de données
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <a href="https://mariadb.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="" height="40"/> </a>
+
 ### Langages
 
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -51,6 +69,8 @@
  <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" height="40"/> </a>
+ <a href="https://d3js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="40"/> </a>
 
 ### Outils
 
@@ -58,15 +78,15 @@
   <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
-  <a href="https://d3js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" height="40"/> </a>
   <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft PI" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" alt="HaProxy" height="40"/></a>
 
 ### Hardware
   
   <a href="#"><img src="./logo/raspberryPI.svg" alt="Raspberry Pi" height="48"/></a>
   
 ### OS
+
   <a href="#"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
 
@@ -74,24 +94,6 @@
 
   <a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="48"></a>
   <a href="#"><img src="./logo/websocket.svg" alt="websocket" height="48"/></a>
-
-### Base de données
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://mariadb.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="" height="40"/> </a>
     
 ### Contribution github
 
