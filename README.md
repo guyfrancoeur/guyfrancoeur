@@ -8,6 +8,13 @@
 
  - [Cliquer ici](https://guyfrancoeur.github.io)
 
+### Mes sponsors
+ - MobaXterm
+ - UltraEdit
+ - erwin DM (Data Modeler)
+
+<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI" alt="ultraedit" width="40" height="40"/>
+
 ### Cloud
 
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
