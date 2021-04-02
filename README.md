@@ -19,7 +19,9 @@
 ### Cloud
 
   <a href="https://azure.microsoft.com/fr-fr/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48"/> </a>
+  <a href="#"><img src="./logo/10162-icon-service-Cognitive-Services.svg" alt="Cognitive Sevices" height="48"/></a>
+  <a href="#"><img src="./logo/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Cognitive Sevices" height="48"/></a>
 
 ### Langages
 
