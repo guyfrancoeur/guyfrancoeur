@@ -11,7 +11,7 @@
 ### Mes commenditaires
 
 [![mobaXterm](https://mobaxterm.mobatek.net/img/moba/xterm_logo.png "mobaXterm")](https://mobaxterm.mobatek.net)
-[![ultraedit](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI =x48 "ultraedit")](https://www.ultraedit.com/)
+[![ultraedit](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI =48x48 "ultraedit")](https://www.ultraedit.com/)
 <a href="#"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI" alt="ultraedit" width="48" height="48"/></a>
 
 #### License académique disponible
