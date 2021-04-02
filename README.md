@@ -20,7 +20,7 @@
 
 ### Cloud
 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+  <a href="https://azure.microsoft.com/fr-fr/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 
 ### Langages
@@ -52,13 +52,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40">
-    <img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40">
+    <img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/>
+    <img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40"/>
 
 ### Backend
 
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> </a>
 
 ### Base de données
 
