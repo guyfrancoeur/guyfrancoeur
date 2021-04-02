@@ -22,6 +22,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48"/> </a>
   <a href="#"><img src="./logo/10162-icon-service-Cognitive-Services.svg" alt="Cognitive Sevices" height="48"/></a>
   <a href="#"><img src="./logo/00606-icon-service-Azure-Synapse-Analytics.svg" alt="Cognitive Sevices" height="48"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupiter notebook" height="48"/></a>
 
 ### Langages
 
@@ -43,6 +44,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="" height="40"/></a>
+
+### Librairie
+
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="" height="40"/></a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="" height="40"/> </a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="" height="40"/> </a>
 
 ### Outils
   <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="" height="40"/></a>
@@ -51,10 +59,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://d3js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/></a>
-  <a href="#"><img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40"/></a>
+
+### Hardware
+  
+  <a href="#"><img src="./logo/raspberryPI.svg" alt="Raspberry Pi" height="48"/></a>
+  
+### OS
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
 
 ### Backend et connectivité synchrone
 
