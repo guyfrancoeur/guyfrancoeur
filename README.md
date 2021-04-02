@@ -57,8 +57,8 @@
 
 ### Backend et connectivité syncrone
 
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="64"/> </a>
+  <a href="#"><img src="https://nodejs.org/en/static/images/logo.svg" alt="node.js" height="72"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="64"/> </a>
   <a href="#"><img src="./logo/websocket.svg" alt="websocket" height="48"/></a>
 
 ### Base de données
