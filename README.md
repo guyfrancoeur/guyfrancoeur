@@ -36,21 +36,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
    <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/></a>
 
 ### Librairie
 
- <a href="#"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" height="40"/></a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jQuery" height="40"/> </a>
  <a href="#"><img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" height="40"/> </a>
+ <a href="#"><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" height="40"/> </a>
+ <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a>
 
 ### Outils
   <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio Code" height="40"/></a>
