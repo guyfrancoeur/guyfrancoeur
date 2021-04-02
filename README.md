@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <img src="./logo/osisoftPI.svg" alt="OSIsoft logo" width="40" height="40">
+    <img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40">
     <img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40">
 
 ### Backend
