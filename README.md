@@ -12,8 +12,8 @@
  - MobaXterm
  - UltraEdit
 
-<img width="48" height="48" src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" alt="MobaXterm">
-<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI" alt="ultraedit" width="48" height="48"/>
+<a href="#"><img width="48" height="48" src="https://mobaxterm.mobatek.net/img/moba/xterm_logo.png" alt="MobaXterm"></a>
+<a href="#"><img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/ue.png?itok=Onka9NhI" alt="ultraedit" width="48" height="48"/></a>
 
 #### License académique disponible
  - erwin DM (Data Modeler)
@@ -52,8 +52,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/>
-    <img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40"/>
+  <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/></a>
+  <a href="#"><img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40"/></a>
 
 ### Backend
 
