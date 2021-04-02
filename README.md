@@ -80,6 +80,8 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
   <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft PI" height="40"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-icon.svg" alt="HaProxy" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="48"></a>
+  <a href="#"><img src="./logo/websocket.svg" alt="websocket" height="48"/></a>
 
 ### Hardware
   
@@ -89,11 +91,6 @@
 
   <a href="#"><img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/></a>
-
-### Backend et connectivité synchrone
-
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="48"></a>
-  <a href="#"><img src="./logo/websocket.svg" alt="websocket" height="48"/></a>
     
 ### Contribution github
 
