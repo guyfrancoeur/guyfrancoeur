@@ -45,7 +45,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
 ### Outils
-
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://d3js.org/" target="_blank">
@@ -55,7 +56,7 @@
   <a href="#"><img src="./logo/osisoftPI.svg" alt="OSIsoft logo" height="40"/></a>
   <a href="#"><img src="./logo/raspberryPI.svg" alt="Raspberry logo" width="40" height="40"/></a>
 
-### Backend et connectivité syncrone
+### Backend et connectivité synchrone
 
   <a href="#"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" height="48"></a>
   <a href="#"><img src="./logo/websocket.svg" alt="websocket" height="48"/></a>
@@ -76,6 +77,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="" height="40"/> </a>
     
 ### Contribution github
 
