@@ -75,6 +75,7 @@
 
 ### Outils
 
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio Pro 2022" height="48"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VisualStudio Code" height="48"/></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="48"/></a>
   <a href="https://git-scm.com/" target="_blank">
